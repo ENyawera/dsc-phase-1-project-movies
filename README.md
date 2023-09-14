@@ -19,7 +19,7 @@ The questions we will be trying to answer using `EDA` with `pandas` so as to pro
 ![Budget vs Worldwide Gross](https://github.com/ENyawera/dsc-phase-1-project-movies/assets/111336076/b285cde0-b46c-4da6-b960-327029f34a87)
 
 The scatter plot above shows a weak positive correlation.
-Even though some high-budget movies perform better and have high world wide gross it is not reflected in all scenarios since there are some outliers of low-budget movies or medium-budget movies performing with very high worldwide gross.
+Even though some high-budget movies perform better and have high worldwide gross it is not reflected in all scenarios since there are some outliers of low-budget movies or medium-budget movies performing with very high worldwide gross.
 This information shows budget alone cannot provide adequate insight.
 
 ### Genres vs Total Gross
@@ -36,3 +36,13 @@ Sci-fi movies have more reviews and a relatively high average rating.
 ![Runtime vs Gross](https://github.com/ENyawera/dsc-phase-1-project-movies/assets/111336076/0c560485-17a5-4686-94c0-ba47b46d6bd5)
 
 With respect to total earnings, movies with a runtime of between 140:170 minutes are preferred.
+
+## Recommendations
+
+The data analysis done here leans mostly on the type of films to venture into.
+The genre that seems to be earning well is `sci-fi` even though it is not among the most produced genres.
+Therefore:-
+1. Microsoft could make movies in the sci-fi genre.
+2. The movies should have an average runtime of 140 to 170 minutes.
+3. Budget is not a clear indicator of movie performance so more research has to be done on other aspects so as to ascertain which part to invest in such as proper story writing, experienced directors, actors, and many more.
+
