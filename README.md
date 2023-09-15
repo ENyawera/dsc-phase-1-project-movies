@@ -5,7 +5,8 @@ Please fill out:
 * Student pace: Full time
 * Scheduled project review date/time: 15th August,2023
 * Instructor name: Nikita Njoroge, Samuel Karu, Lucille Kaleha & Diana Mongina
-* Blog post URL:
+* Presentation URL: https://docs.google.com/presentation/d/1_vl9fRO9UktGKSacT8KgaMck77L8PBDyAMy5xbXx8IM/edit?usp=sharing
+
 The questions we will be trying to answer using `EDA` with `pandas` so as to provide well-informed insights are:-
 
 1. The movie budget when creating a movie and the overall performance of high-budget or low-budget movies when it comes to income generated
